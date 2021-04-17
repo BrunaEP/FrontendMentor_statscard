@@ -1,0 +1,96 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+    font-size:  15px;
+}
+
+h1{
+  color:	hsl(0, 0%, 100%);
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight:700;
+}
+
+span{
+  color: 	hsl(277, 64%, 61%);
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight:700;
+}
+
+p{
+  font-family: 'Inter', sans-serif;
+  color:hsla(0, 0%, 100%, 0.75);
+  font-weight:400;
+  width: 340px;
+}
+
+.site{
+  background-color:  hsl(244, 38%, 16%);
+  margin: 177px 165px;
+  border-radius: 8px;
+  height: 446px;
+  position: relative;
+  text-align: center;
+}
+
+.text{
+  width: 380px;
+  text-align: left;
+  position: absolute;
+  left: 67px;
+  top: 71px;
+}
+
+img{
+  float:right;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 446px;
+  width: 540px;
+  border-radius: 0 8px 8px 0  ;
+}
+
+.bottom{
+  font-family: 'Inter', sans-serif;
+  color:hsla(0, 0%, 100%, 0.75);
+  font-weight:400;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+}
+
+.numbers{
+  font-family: 'Inter', sans-serif;
+  font-weight:bold;
+  display: inline-block;
+  position: relative;
+  width: 340px;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+
+h2{
+  color: hsl(0, 0%, 100%);
+  width:60px;
+  font-weight:700;
+}
+
+.queries{
+  position: absolute;
+  right: 0;
+  top:0;
+}
+
+.templates{
+  position: absolute;
+  right: 140px;
+  left: 140px;
+  top:0;
+}
+
+.companies{
+  position: absolute;
+  left: 0;
+  top:0;
+}
+
+.attribution{
+  color: hsla(0, 0%, 100%, 0.6);
+}
